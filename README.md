@@ -26,7 +26,7 @@ Sinta-se à vontade para entrar em contato comigo através das redes sociais ou 
 
 ## 📊 Estatísticas do GitHub
 
-![Estatísticas do GitHub]([https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical](https://github-readme-stats.vercel.app/api?username=Welinghtonn&show_icons=true&theme=radical))
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Welinghtonn&show_icons=true&theme=radical)
 
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Welinghtonn&layout=compact&theme=radical)
 
