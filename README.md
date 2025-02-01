@@ -15,8 +15,8 @@ Aqui estão algumas das ferramentas e linguagens com as quais trabalho:
 
 Aqui estão alguns dos meus projetos mais recentes:
 
-- [Calculadora](https://calculadora-em-ts-simple.vercel.app) - Descrição breve do projeto.
-- [To-do-list](https://to-do-list-20.vercel.app) - Descrição breve do projeto.
+- [Calculadora](https://calculadora-em-ts-simple.vercel.app) - Uma calculadora simples feita usando TS.
+- [To-do-list](https://to-do-list-20.vercel.app) - Fazer anotações de forma simples.
 
 ## 💬 Contato
 
