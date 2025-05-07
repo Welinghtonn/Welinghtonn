@@ -6,10 +6,10 @@ Desenvolvedor apaixonado por tecnologia, código limpo e projetos de impacto. Se
 
 Aqui estão algumas das ferramentas e linguagens com as quais trabalho:
 
-- 🖥️ **Linguagens**: Python, JavaScript, HTML, CSS
-- ⚙️ **Frameworks**: React, Node.js
-- 🛠️ **Ferramentas**: Git, Vercel
-- 🧰 **Banco de Dados**: FireBase
+- 🖥️ **Linguagens**: Python, JavaScript, C, TypeScript, HTML, CSS.
+- ⚙️ **Frameworks**: React, Node.js.
+- 🛠️ **Ferramentas**: Git, Vercel.
+- 🧰 **Banco de Dados**: FireBase.
 
 ## 🚀 Projetos
 
