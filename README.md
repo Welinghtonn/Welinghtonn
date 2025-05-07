@@ -1,6 +1,6 @@
 # Olá, sou Welinghton 👋
 
-Desenvolvedor apaixonado por tecnologia, código limpo e projetos de impacto. Sempre buscando aprender e explorar novas ferramentas e linguagens.
+Desenvolvedor apaixonado por tecnologia, sempre buscando aprender e explorar novas ferramentas e linguagens.
 
 ## 🔧 Tecnologias & Ferramentas
 
