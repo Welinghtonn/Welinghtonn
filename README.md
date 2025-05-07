@@ -15,7 +15,7 @@ Aqui estão algumas das ferramentas e linguagens com as quais trabalho:
 
 Aqui estão alguns dos meus projetos mais recentes:
 
-- [Portifolio](https://portifolio-3-0-7kxf.vercel.app/) - Uma calculadora simples feita usando TS.
+- [Portifolio](https://portifolio-3-0-7kxf.vercel.app/) - Um portifolio apresentando um pouco sobre mim.
 - [To-do-list](https://to-do-list-20.vercel.app) - Fazer anotações de forma simples.
 
 ## 💬 Contato
